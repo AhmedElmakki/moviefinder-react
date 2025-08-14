@@ -1,6 +1,6 @@
 # MovieFinder (React + Vite)
 
-A small app to practice React fundamentals: components, props, state, effects, routing, and API integration with The Movie Database (TMDB). Includes optional Favorites with localStorage.
+A small app to practice React fundamentals: components, props, state, effects, routing, and API integration with The Movie Database (OMDb). Includes optional Favorites with localStorage.
 
 ## Tech
 - React + Vite
