@@ -21,6 +21,8 @@ npm install
 
 npm run dev
 
+```
+
 Open your browser at http://localhost:5173 (default Vite port) to view the app.
 
 
